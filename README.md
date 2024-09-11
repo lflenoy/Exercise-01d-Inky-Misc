@@ -1,5 +1,5 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+# Leya Flenoy
 
-# Your Github username
+# lflenoy
